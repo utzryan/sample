@@ -1,4 +1,4 @@
-# Bash script.
+# What Bash script.
 
 for file in `ls naturalsequence*.txt`;
 do
